@@ -22,7 +22,7 @@ git clone https://github.com/AlexGidman/SpotifyAPI_nb
 jupyter notebook
 ```
 * If browser does not launch automatically, copy and paste localhost URL into browser.
-* Go into notebooks folder, and use the "Robust Query Search.ipynb". The other notebooks show development steps taken to create API client.
+* Go into notebooks folder, and use the "SpotifyAPI Class.ipynb". The other notebooks show development steps taken to create API client.
 * Set a client_id & client_secret.
 ###### Within an existing project:
 * Copy and paste code snippet into existing python project.
