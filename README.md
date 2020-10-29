@@ -2,7 +2,7 @@
 A Jupyter Notebook for sending requests to the Spotify Web API using Python
 
 ### Motivation
-The aim of this small project was to initialise a relatively simple Spotify API client and use it to pull useful data about tracks (such as BPM, and song key).
+The aim of this small project was to initialise a relatively simple Spotify API client and use it to pull useful data about tracks (such as tempo, and song key).
 You can copy and paste the SpotifyAPI class into your own projects; just remember to set your own client_id and client_secret (details below).
 
 ### Dependencies
